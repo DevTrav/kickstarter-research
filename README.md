@@ -39,6 +39,10 @@ $3,000.
 
 ![Outcomes vs Goals](https://github.com/DevTrav/kickstarter-research/blob/main/resources/Outcomes_vs_Goals.png)
 
+    - Theater Campaigns launched during February, April, May, June and July trend at over 60% successful. The highest success rates are campaigns launched in May at 67%.
+
+![Theater Outcomes vs Launch Date ](https://github.com/DevTrav/kickstarter-research/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
 * Challenges:
     - Excel has limitations and will throw Errors when dividing by 0. This issue can be resolved by using another technology to examine the data or VBA to programatically remove the Error and provide a value (i.e. 0 or N/A ).
 
