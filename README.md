@@ -36,10 +36,11 @@ $3,000.
     - There were 1267 total projects for plays in the sample data.
     - Of the 1267 campaigns, 386 had a goal ranging from $1,000 - $4,999, with a success rate of 88.34%.
     - An examination of goals vs outcomes indicate that campaigns for play fundraising within the $1k-5k range have a 88.34% liklihood of success.
+    - Theater Campaigns launched during February, April, May, June and July trend at over 60% successful. The highest success rates are campaigns launched in May at 67%.
 
 ![Outcomes vs Goals](https://github.com/DevTrav/kickstarter-research/blob/main/resources/Outcomes_vs_Goals.png)
 
-    - Theater Campaigns launched during February, April, May, June and July trend at over 60% successful. The highest success rates are campaigns launched in May at 67%.
+
 
 ![Theater Outcomes vs Launch Date ](https://github.com/DevTrav/kickstarter-research/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
